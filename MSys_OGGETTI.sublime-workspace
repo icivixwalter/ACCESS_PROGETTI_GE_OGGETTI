@@ -36,13 +36,11 @@
 	"buffers":
 	[
 		{
-			"contents": "\"# ACCESS_PROGETTI_GE_OGGETTI\" \n\n\tpath: c:\\CASA\\LINGUAGGI\\ACCESS\\ACCESS_PROGETTI\\",
 			"file": "README.md",
-			"file_size": 33,
-			"file_write_time": 133480733530249981,
 			"settings":
 			{
-				"buffer_size": 81,
+				"buffer_size": 413,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
@@ -55,7 +53,7 @@
 						"characters": "\n"
 					},
 					"AQAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					5,
@@ -63,7 +61,7 @@
 					"reindent",
 					null,
 					"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					6,
@@ -73,7 +71,7 @@
 						"characters": "PA"
 					},
 					"AgAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					7,
@@ -81,7 +79,7 @@
 					"left_delete",
 					null,
 					"AgAAACMAAAAAAAAAIwAAAAAAAAABAAAAQSIAAAAAAAAAIgAAAAAAAAABAAAAUA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					8,
@@ -91,7 +89,7 @@
 						"characters": "path:"
 					},
 					"BQAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					9,
@@ -101,7 +99,7 @@
 						"characters": " "
 					},
 					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACcAAAAAAAAAJwAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					10,
@@ -109,17 +107,17 @@
 					"paste",
 					null,
 					"AQAAACgAAAAAAAAAUQAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABRAAAAIiMgQUNDRVNTX1BST0dFVFRJX0dFX09HR0VUVEkiIAoKCXBhdGg6IGM6XENBU0FcTElOR1VBR0dJXEFDQ0VTU1xBQ0NFU1NfUFJPR0VUVElcAAAAAAAAAACdAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
-		},
-		{
-			"file": "MSys_OGGETTI.sublime-project",
-			"settings":
-			{
-				"buffer_size": 48,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "",
@@ -476,18 +474,19 @@
 				{
 					"buffer": 0,
 					"file": "README.md",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 81,
+						"buffer_size": 413,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								81,
-								81
+								267,
+								309
 							]
 						],
 						"settings":
@@ -497,39 +496,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "MSys_OGGETTI.sublime-project",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 48,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JSON/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 102.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -576,7 +543,7 @@
 	},
 	"output.Terminus":
 	{
-		"height": 33.0
+		"height": 287.0
 	},
 	"output.diagnostics":
 	{
